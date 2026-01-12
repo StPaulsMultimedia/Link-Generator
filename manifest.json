@@ -1,0 +1,21 @@
+{
+  "name": "Link Generator",
+  "short_name": "Link Gen",
+  "description": "Generate and fetch YouTube links for services.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#d4af37",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/8767/8767851.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/8767/8767851.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
